@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5002d6de-ec00-4b8f-8478-316ea5898e62" name="Default Changelist" comment="删除非必需文件">
+    <list default="true" id="5002d6de-ec00-4b8f-8478-316ea5898e62" name="Default Changelist" comment="修改按钮大小">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -35,7 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614265869285</updated>
       <workItem from="1614265870458" duration="2232000" />
-      <workItem from="1614348509711" duration="2351000" />
+      <workItem from="1614348509711" duration="3273000" />
     </task>
     <task id="LOCAL-00001" summary="全部文件">
       <created>1614265953155</created>
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614350204026</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改按钮大小">
+      <created>1614350887919</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614350887919</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +109,7 @@
     <MESSAGE value="修改图片大小" />
     <MESSAGE value="修改大小" />
     <MESSAGE value="删除非必需文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除非必需文件" />
+    <MESSAGE value="修改按钮大小" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改按钮大小" />
   </component>
 </project>
