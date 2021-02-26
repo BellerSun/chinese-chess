@@ -30,12 +30,12 @@ com.init = function (stype){
 //样式
 com.stype = {
 	stype1:{
-		width:489,		//画布宽度
-		height:604, 		//画布高度
-		spaceX:54,		//着点X跨度
-		spaceY:55,		//着点Y跨度
-		pointStartX:14,		//第一个着点X坐标;
-		pointStartY:33,		//第一个着点Y坐标;
+		width:975,		//画布宽度
+		height:1209, 		//画布高度
+		spaceX:105,		//着点X跨度
+		spaceY:108,		//着点Y跨度
+		pointStartX:48,		//第一个着点X坐标;
+		pointStartY:94,		//第一个着点Y坐标;
 		page:"stype_1"	//图片目录
 	},
 	stype2:{
