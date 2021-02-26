@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5002d6de-ec00-4b8f-8478-316ea5898e62" name="Default Changelist" comment="全部文件">
+    <list default="true" id="5002d6de-ec00-4b8f-8478-316ea5898e62" name="Default Changelist" comment="修改测试">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -34,7 +34,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614265869285</updated>
-      <workItem from="1614265870458" duration="768000" />
+      <workItem from="1614265870458" duration="1847000" />
     </task>
     <task id="LOCAL-00001" summary="全部文件">
       <created>1614265953155</created>
@@ -43,7 +43,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614265953155</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改测试">
+      <created>1614268575876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614268575876</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -51,6 +58,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="全部文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="全部文件" />
+    <MESSAGE value="修改测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改测试" />
   </component>
 </project>
