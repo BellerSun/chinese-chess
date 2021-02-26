@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5002d6de-ec00-4b8f-8478-316ea5898e62" name="Default Changelist" comment="修改图片大小">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/stype_1/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/stype_1/bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/common.js" afterDir="false" />
+    <list default="true" id="5002d6de-ec00-4b8f-8478-316ea5898e62" name="Default Changelist" comment="修改大小">
+      <change beforePath="$PROJECT_DIR$/taolejuan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/免责声明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/商业资源免费放送！.txt.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/精品免费商业源码下载.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/系统说明.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614265869285</updated>
       <workItem from="1614265870458" duration="2232000" />
-      <workItem from="1614348509711" duration="1382000" />
+      <workItem from="1614348509711" duration="1683000" />
     </task>
     <task id="LOCAL-00001" summary="全部文件">
       <created>1614265953155</created>
@@ -67,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614349031892</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改大小">
+      <created>1614350106946</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614350106946</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +96,7 @@
     <MESSAGE value="全部文件" />
     <MESSAGE value="修改测试" />
     <MESSAGE value="修改图片大小" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改图片大小" />
+    <MESSAGE value="修改大小" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改大小" />
   </component>
 </project>
