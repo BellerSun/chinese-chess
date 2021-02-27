@@ -3,31 +3,31 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=gb2312"/>
-    <title>html5ʵ�ֵ��й�������Ϸ</title>
-    <link href="css/lanrenzhijia.css" type="text/css" rel="stylesheet"/>
+    <title>html5实现的中国象棋游戏</title>
+    <link href="/css/lanrenzhijia.css" type="text/css" rel="stylesheet"/>
 </head>
 <body>
 <div class="box" id="box">
     <div class="chess_left">
-        <canvas id="chess">�Բ��������������֧��HTML5���������������IE9��firefox���߹ȸ��������</canvas>
+        <canvas id="chess">对不起，您的浏览器不支持HTML5，请升级浏览器至IE9、firefox或者谷歌浏览器！</canvas>
         <audio src="audio/click.wav" id="clickAudio" preload="auto"></audio>
         <!--<audio src="audio/check.wav" id="checkAudio" preload="auto"></audio>-->
         <audio src="audio/select.wav" id="selectAudio" preload="auto"></audio>
         <div>
             <div class="bn_box" id="bnBox">
                 <input type="button" style="width: 200px;height: 100px;font-size: 40px" name="offensivePlay"
-                       id="tyroPlay" value="����ˮƽ"/>
+                       id="tyroPlay" value="新手水平"/>
                 <input type="button" style="width: 200px;height: 100px;font-size: 40px" name="offensivePlay"
-                       id="superPlay" value="�м�ˮƽ"/>
+                       id="superPlay" value="中级水平"/>
                 <input type="button" style="width: 200px;height: 100px;font-size: 40px" name="regret" id="regretBn"
-                       value="����"/>
+                       value="悔棋"/>
                 <input type="button" style="width: 200px;height: 100px;font-size: 40px" name="billBn" id="billBn"
-                       value="����" class="bn_box"/>
+                       value="棋谱" class="bn_box"/>
                 <!--
-                <input type="button" name="button" id="" value="��ʦˮƽ" disabled/>
-                <input type="button" name="stypeBn" id="stypeBn" value="����" />
-            	<input type="button" name="offensivePlay" id="offensivePlay" value="���ֿ�ʼ" />
-            	<input type="button" name="defensivePlay" id="defensivePlay" value="���ֿ�ʼ" />
+                <input type="button" name="button" id="" value="大师水平" disabled/>
+                <input type="button" name="stypeBn" id="stypeBn" value="换肤" />
+            	<input type="button" name="offensivePlay" id="offensivePlay" value="先手开始" />
+            	<input type="button" name="defensivePlay" id="defensivePlay" value="后手开始" />
                 -->
             </div>
         </div>
@@ -40,10 +40,10 @@
     </div>
     <div id="moveInfo" class="" style="position:fixed ; bottom:0;width:1002px;font-size: 50px;line-height: 50px;"></div>
 </div>
-<script src="js/common.js"></script>
-<script src="js/play.js"></script>
-<script src="js/AI.js"></script>
-<script src="js/bill.js"></script>
-<script src="js/gambit.js"></script>
+<script src="/js/common.js"></script>
+<script src="/js/play.js"></script>
+<script src="/js/AI.js"></script>
+<script src="/js/bill.js"></script>
+<script src="/js/gambit.js"></script>
 </body>
 </html>
